@@ -11,7 +11,7 @@ SSUMC 6기 Spring Boot 스터디 A조
 ```bash
 ├─.github
 │  └─PULL_REQUEST_TEMPLATE
-├─.idea
+├─README.md
 ├─docs
 │  └─chapter1
             Ch01Keyword.md
