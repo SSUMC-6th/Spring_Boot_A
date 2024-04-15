@@ -1,7 +1,5 @@
-docs/chapter2/image/01.png
-
 ### IPv4
-![Untitled](docs/chapter2/image/01.png width="450px" height="300px")
+![Untitled](docs/chapter2/image/01.png)
 
 - IP 주소 체계, 새로운 주소 체계인 IPv6은 아직 보편화되지 않음
 - 3자리 숫자가 4마디로 표기되는 방식 / **각 마디는 8bit**씩 총 **32bit**로 처리
@@ -42,7 +40,7 @@ docs/chapter2/image/01.png
     - 이 과정을 **서브넷팅** 이라고 한다.
 - 서브넷 마스크는 이진수 기준, **네트워크 ID를 1로, 호스트 ID를 0으로** 표현한다.
     
-    ![Untitled](docs/chapter2/image/02.png width="450px" height="300px")
+    ![Untitled](docs/chapter2/image/02.png)
     
 
 - IP주소를 보면 192.168.32.0/24처럼 `/24` 같은 표시가 붙어있는 것을 확인할 수 있는데,
