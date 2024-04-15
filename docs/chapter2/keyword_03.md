@@ -1,5 +1,5 @@
 ### IPv4
-![Untitled](image/01.png)
+![Untitled]("image/01.png" width="450px")
 
 - IP 주소 체계, 새로운 주소 체계인 IPv6은 아직 보편화되지 않음
 - 3자리 숫자가 4마디로 표기되는 방식 / **각 마디는 8bit**씩 총 **32bit**로 처리
