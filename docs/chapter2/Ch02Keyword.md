@@ -169,7 +169,7 @@ Network Address Translation, 인터넷 주소 번역 기능 ⇒ 외부 인터넷
 
 ### AWS CIDR
 
-![alt text](image.png)
+![image](https://github.com/SSUMC-6th/Spring_Boot_A/assets/118423039/1ebdf259-3923-49b7-9192-e4ea8ccde540)
 
 
 - AWS에서는 자체 클라우드에서 설정해 사용하고 있는 IP가 있기 때문에 2개가 아니라 총 5개 제외해야 한다.
