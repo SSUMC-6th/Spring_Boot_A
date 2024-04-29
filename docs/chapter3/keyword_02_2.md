@@ -12,7 +12,7 @@
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/b02c0e1c-a828-43a7-a912-d9f2f1c45d22/Untitled.png)
+![poster](./images/01.png)
 
 1. `Web Server`는 웹 브라우저 클라이언트로부터 HTTP 요청을 받는다.
 2. `Web Server`는 클라이언트의 요청(Request)을 WAS에 보낸다.

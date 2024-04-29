@@ -20,7 +20,7 @@
 
 → 즉, 프록시 서버를 통해 다른 IP 주소를 가진 웹 사이트에 액세스 할 수 있다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/54c27967-c1f4-4633-9c43-bc29e9f26128/Untitled.png)
+![poster](./images/02.png)
 
 **프록시 서버는 클라이언트의 요청을 수락하고 다음 조건에 따라 응답을 생산한다.**
 
@@ -45,17 +45,17 @@
 
 만약 proxy server가 없다면 아래처럼 클라이언트가 직접적으로 액세스할 수 있다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/7a1f3454-d7b1-48e8-8f6c-ff5f00fae371/Untitled.png)
+![poster](./images/03.png)
 
 반면 포워드 프록시를 사용하면 서버에게 **클라이언트가 누구인지 감출 수** 있다. 
 서버가 응답받은 IP는 포워드 프록시 서버의 IP이기 때문에 클라이언트가 누군지 알 수 없다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/ede4b9d0-e4a3-423e-b782-5d5344c47c21/Untitled.png)
+![poster](./images/04.png)
 
 - 우리가 `http://racoon.com` 페이지를 요청하면 포워드 프록시 서버가 **리소스를 대신 받아와** 클라이언트에게 내밀어준다(forward).
 - **인터넷보다 프록시 서버를 먼저 호출하게 되면 포워드 프록시**인 것이다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/b35ee9c9-0f56-4cdd-8057-821e57f579d2/Untitled.png)
+![poster](./images/05.png)
 
 ### Foward Proxy 이점
 
@@ -88,7 +88,7 @@
     프록시가 배후(reverse)의 서버로부터 데이터를 가져오는 방식이다.
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/938e2fb1-1d09-42ae-9bbf-2a946c9b9457/Untitled.png)
+![poster](./images/06.png)
 
 리버스 프록시는 **서버가 누구인지를 감추는 역할**을 한다. 
 클라이언트는 리버스 프록시 서버를 먼저 호출하게 되기에 실제 서버의 IP를 알 수 없다.
@@ -104,7 +104,7 @@
 🔥 흔히 서버 아키텍처로 구성하는 web server(nginx) - WAS(tomcat) 분리 형태를 reverse proxy라고 보면 됨 !
 </aside>
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f1912130-0409-4e90-a90f-6091ae253e73/6063c163-aeb8-4b27-a71c-a7e0dad5b85b/Untitled.png)
+![poster](./images/07.png)
 
 ### Reverse Proxy 이점
 
