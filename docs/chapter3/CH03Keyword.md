@@ -1,6 +1,6 @@
 # Chapter 3. Web Server & Web Application Server(WAS), Reverse Proxy
 
-> UMC 워크북 2주차 키워드에 관한 내용을 정리해보겠습니다 :)
+> UMC 워크북 3주차 키워드에 관한 내용을 정리해보겠습니다 :)
 
 # ✅ 1. Web Sever
 ![alt text](image.png)
