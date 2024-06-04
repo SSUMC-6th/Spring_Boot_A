@@ -187,7 +187,7 @@ public class SpecificExceptionHandler {
   이 외에도 다양한 어노테이션이 존재한다.
 
   | 주석 | 목적 |
-      | --- | --- |
+  | --- | --- |
   | @Getter | 모든 필드에 대한 getter 메소드를 생성 |
   | @Setter | 모든 필드에 대한 setter 메소드를 생성 |
   | @ToString | 'toString' 메서드를 생성 |
